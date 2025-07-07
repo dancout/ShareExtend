@@ -77,3 +77,4 @@ pubspec.lock
 .flutter-plugins-dependencies
 .dart_tool
 flutter_export_environment.sh
+/example/ios/Flutter/ephemeral
